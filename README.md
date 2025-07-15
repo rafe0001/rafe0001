@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafe0001
 - 👀 I’m interested in ...cyber aecurity
-- 🌱 I’m currently learning ...diploma in cse 
+- 🌱 I’m currently working on skills to get a job as a fresher  
 - 💞️ I’m looking to collaborate on ...in learning c and c++
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
