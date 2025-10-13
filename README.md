@@ -16,8 +16,7 @@ Whether it’s wrangling data, designing APIs, or scaling full-stack apps, I lov
 ---
 
 ### 💻 Skills & Tools
-Python, JavaScript, Node.js, React, SQL, Docker  
-*(Expand this list with your favorite tools!)*
+Python, JavaScript, Node.js, React, SQL, Docker ,Ai automation,Robotics,3D printing
 
 ---
 
