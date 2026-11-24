@@ -4,6 +4,11 @@ I'm learning Python from scratch and working towards becoming a **Data Analyst**
 
 I have also learnt **MySQL** and know SQL for working with databases.
 
+**Tools I have hands-on experience with**
+- Advanced Excel & MS Office — hands-on experience for data and document work
+- Adobe Photoshop — image editing and design
+- AI-assisted coding — generating accurate, working code with AI tools, and testing it
+
 **What I'm learning right now**
 - Python — functions, loops, error handling with try/except
 - File handling with CSV
