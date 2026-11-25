@@ -25,3 +25,8 @@ I have also learnt **MySQL** and know SQL for working with databases.
 **Next step:** Data Analysis with Pandas and Matplotlib — building a Sales Data Analysis project.
 
 *I build a project for everything I learn, and I push it here as I go.*
+**Trainings & Internships**
+
+- **Data Analytics Training** — Ducat, Noida — Oct 2025 – Present
+- **Agnirva AI Internship Program** — AGNIRVA, Online — Mar 2025 – Apr 2025
+- **STEMROBO Technologies Internship** — StemRobo Technologies, Amloh — Jun 2023 – Jul 2023
